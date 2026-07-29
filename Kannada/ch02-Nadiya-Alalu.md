@@ -85,31 +85,86 @@
 
 
 ## Words
-| Kannada Word     | English Meaning                      |
-| ---------------- | ------------------------------------ |
-| ಅನಾಹುತ           | Tragedy, mishap, disaster            |
-| ಗೆಳೆಯ / ಗೆಳತಿಯರು | Friends (male/female)                |
-| ದಾಖಲಾಗಿದ್ದಾರೆ    | Have been admitted (to hospital)     |
-| ಸೆಕೆ             | Heat, hot weather                    |
-| ತಾಳಲಾರದೆ         | Unable to bear                       |
-| ಪರಿಣಾಮವಾಗಿ       | As a result, consequently            |
-| ಗುಳ್ಳೆಗಳು        | Blisters, boils                      |
-| ವಿಪರೀತ           | Severe, extreme                      |
-| ತುರಿಕೆ           | Itching                              |
-| ದಂಡೆ             | Riverbank                            |
-| ಹೊರಳಾಡಿದರು       | Rolled around (in pain)              |
-| ದಾರಿಹೋಕರು        | Passers-by                           |
-| ನರಳಾಟ            | Groaning, suffering                  |
-| ಹದಗೆಟ್ಟಿತ್ತು     | Had worsened                         |
-| ಪರೀಕ್ಷಾ ಕೊಠಡಿ    | Examination room                     |
-| ಸ್ಥಿತಿ           | Condition                            |
-| ಚಿಂತೆಗೆ ಕಾರಣ     | Cause for concern                    |
-| ಮಾಲಿನ್ಯ          | Pollution                            |
-| ಸೋಂಕು            | Infection                            |
-| ತಗುಲಿದೆ          | Has been affected by / infected with |
-| ಇಡೀ              | Entire, whole                        |
-| ಮೂರ್ಛೆ           | Fainting, unconsciousness            |
-| ಅಪಾಯ             | Danger, risk                         |
-| ಸಕಾಲದಲ್ಲಿ        | On time, at the right time           |
-| ಸೂಕ್ತ            | Appropriate, proper                  |
-| ಚಿಕಿತ್ಸೆ         | Treatment                            |
+| Kannada Word       | English Meaning           |
+| ------------------ | ------------------------- |
+| ಅನಾಹುತ             | Accident, tragedy         |
+| ದಾಖಲಾಗಿದ್ದಾರೆ      | Admitted (to a hospital)  |
+| ಸೆಕೆ               | Heat                      |
+| ತಾಳಲಾರದೆ           | Unable to bear            |
+| ಪರಿಣಾಮ             | Result, effect            |
+| ಗುಳ್ಳೆಗಳು          | Blisters                  |
+| ವಿಪರೀತ             | Very severe, extreme      |
+| ತುರಿಕೆ             | Itching                   |
+| ದಂಡೆ               | Riverbank                 |
+| ಹೊರಳಾಡಿದರು         | Rolled around (in pain)   |
+| ದಾರಿಹೋಕರು          | Passers-by                |
+| ನರಳಾಟ              | Groaning, suffering       |
+| ಹದಗೆಟ್ಟಿತು         | Became worse              |
+| ಪರೀಕ್ಷೆ            | Examination, test         |
+| ಕೊಠಡಿ              | Room                      |
+| ಸ್ಥಿತಿ             | Condition                 |
+| ಚಿಂತೆ              | Worry                     |
+| ಕಾರಣ               | Reason, cause             |
+| ಮಾಲಿನ್ಯ            | Pollution                 |
+| ಸೋಂಕು              | Infection                 |
+| ತಗುಲಿದೆ            | Has been affected by      |
+| ಇಡೀ                | Entire, whole             |
+| ಮೂರ್ಛೆ             | Fainting                  |
+| ಅಪಾಯ               | Danger                    |
+| ಸಕಾಲ               | Right time, timely        |
+| ಸೂಕ್ತ              | Suitable, proper          |
+| ಚಿಕಿತ್ಸೆ           | Treatment                 |
+| ಕೊಳಕು              | Dirty, filthy             |
+| ಮಲಿನಗೊಂಡ           | Polluted                  |
+| ಜೀವಸಂಕುಲ           | Living creatures          |
+| ಅಪಾಯಕಾರಿ           | Dangerous                 |
+| ತಾತ್ಸಾರ            | Disrespect, contempt      |
+| ಹೀಯಾಳಿಸು           | To insult, mock           |
+| ಇದ್ದಕ್ಕಿದ್ದಂತೆ     | Suddenly                  |
+| ಕೆಸರು              | Mud                       |
+| ಧುತ್ತನೆ            | Suddenly, abruptly        |
+| ಪ್ರತ್ಯಕ್ಷ          | Appeared                  |
+| ಅಸಹ್ಯ              | Disgusting                |
+| ಪ್ರಯೋಜನ            | Benefit                   |
+| ಕಲುಷಿತ             | Polluted, contaminated    |
+| ಅಸ್ವಸ್ಥ            | Sick, unwell              |
+| ಶುದ್ಧ              | Clean, pure               |
+| ಪರಿಶುದ್ಧ           | Completely pure           |
+| ತಪ್ಪು ತಿಳಿದಿದ್ದೀರಿ | Have misunderstood        |
+| ಮನುಷ್ಯರು           | Human beings              |
+| ಮಾಲಿನ್ಯರಹಿತ        | Pollution-free            |
+| ಆಹಾರ               | Food                      |
+| ತಯಾರಿಕೆ            | Preparation               |
+| ಬೇಸಾಯ              | Farming                   |
+| ಉಪಯೋಗ              | Use                       |
+| ಜಲಚರ               | Aquatic (water-living)    |
+| ಲೆಕ್ಕವಿಲ್ಲದಷ್ಟು    | Countless                 |
+| ಕಾರ್ಖಾನೆ           | Factory                   |
+| ಸ್ಥಾಪಿಸು           | Establish, set up         |
+| ರಾಸಾಯನಿಕ           | Chemical                  |
+| ಪದಾರ್ಥ             | Substance                 |
+| ಕಸದ ರಾಶಿ           | Heap of garbage           |
+| ಸಮಗ್ರ              | Entire, whole             |
+| ಕೊಳಚೆ              | Sewage, dirty waste       |
+| ಶೋಷಣೆ              | Exploitation, misuse      |
+| ಬಲಿಯಾದ             | Became a victim           |
+| ಯೋಚಿಸು             | Think                     |
+| ಮುಂದುವರಿಸು         | Continue                  |
+| ವಿಷಕನ್ಯೆ           | Poison Maiden             |
+| ನೋವು               | Pain                      |
+| ಚಿಂತಾಕ್ರಾಂತರಾಗಿ    | Worried, anxious          |
+| ದೌರ್ಜನ್ಯ           | Cruelty, abuse            |
+| ಸಂಪೂರ್ಣವಾಗಿ        | Completely                |
+| ಶ್ರಮಿಸು            | Work hard, make an effort |
+| ಮಲಿನ ವಸ್ತು         | Waste material            |
+| ಸೇರದಂತೆ            | So that it does not enter |
+| ಹರಿಯಬಲ್ಲೆ          | Can flow                  |
+| ಪಣತೊಟ್ಟು           | To take a pledge          |
+| ಪ್ರಯತ್ನಿಸು         | Try, make an effort       |
+| ಧನ್ಯ               | Thankful, blessed         |
+| ಅಂತರ್ಧಾನ           | Disappear                 |
+| ಹೆತ್ತವರು           | Parents                   |
+| ಸಹಕಾರ              | Cooperation               |
+| ಶುಚಿ               | Clean                     |
+| ಜವಾಬ್ದಾರಿ          | Responsibility            |
+| ವಹಿಸಿಕೊಂಡರು        | Took up, accepted         |
