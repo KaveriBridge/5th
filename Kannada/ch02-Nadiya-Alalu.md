@@ -34,30 +34,53 @@
 
 ### Part 3
 * (ವೈದ್ಯರು ಹೇಳಿದ ಮಾತುಗಳನ್ನು ಕೇಳಿದ ಮಕ್ಕಳು ನದಿಯ ದಂಡೆಗೆ ಬರುತ್ತಾರೆ.)
+* (Having heard what the doctor said, the children come to the riverbank.)
 * ಭವಾನಿ : ಈ ನದಿಯ ನೀರು ಎಷ್ಟೊಂದು ಕೊಳಕಾಗಿದೆ?
+* Bhavani: How dirty the water in this river is!
 * ಮಮತ : ಅಬ್ಬಾ! ಈ ಕೆಟ್ಟ ನೀರಿಗೆ ಅವರೇಕೆ ಇಳಿದರು?
+* Mamata: Oh dear! Why did they step into such foul water?
 * ಸುಜಾತ : ಸೆಕೆ ತಡೆಯಲು ಆಗಲಿಲ್ಲವೋ ಏನೊ!
+* Sujatha: Perhaps they couldn't bear the heat!
 * ಅಮಿತ್ : ಇದು ಮಲಿನಗೊಂಡ ನದಿ. ಇಂತಹ ನದಿಗಳು ಜೀವಸಂಕುಲಕ್ಕೆ ಅಪಾಯಕಾರಿ.
+* Amit: This is a polluted river. Such rivers are dangerous to all forms of life.
 
 ### Part 4
 * (ಮಕ್ಕಳೆಲ್ಲರು ನದಿಯ ಬಗ್ಗೆ ತಾತ್ಸಾರವಾಗಿ ಮಾತನಾಡುತ್ತ ಹೀಯಾಳಿಸತೊಡಗುತ್ತಾರೆ. ಇದ್ದಕ್ಕಿದ್ದಂತೆ ಕೊಳೆ, ಕೆಸರಿನಿಂದ ಕೂಡಿದ ಜಲದೇವತೆ ನೀರಿನ ಮಧ್ಯದಿಂದ ಧುತ್ತನೆ ಪ್ರತ್ಯಕ್ಷಳಾಗುತ್ತಾಳೆ. ಮಕ್ಕಳೆಲ್ಲ ಭಯಪಡುತ್ತಾರೆ.)
+* (All the children begin to speak disparagingly and mock the river. Suddenly, the Goddess of Water—covered in filth and mud—appears abruptly from the middle of the water. The children are frightened.)
 * ಮಕ್ಕಳು : ಯಾರಿವಳು? ಎಷ್ಟು ಅಸಹ್ಯವಾಗಿದ್ದಾಳೆ?
+* Children: Who is she? How repulsive she looks!
 * ಜಲದೇವತೆ : ನಾನು ಜಲದೇವತೆ ಮಕ್ಕಳೆ.
+* Goddess of Water: I am the Goddess of Water, children.
 * ಮಕ್ಕಳು : ಛೀ! ಛೀ! ಜಲದೇವತೆ ಹೀಗಿರುತ್ತಾಳೆಯೆ? ನಿನ್ನನ್ನು ನೋಡಿದರೆ ನಮಗೆ ಅಸಹ್ಯವಾಗುತ್ತದೆ.
+* Children: Ugh! Yuck! Is this what the Goddess of Water looks like? The sight of you makes us feel disgusted.
 * ಜಲದೇವತೆ : ಏಕೆ? ನಾನು ನಿಮಗೇನು ಮಾಡಿರುವೆ? ನೀವೇಕೆ ಅಸಹ್ಯ ಪಟ್ಟುಕೊಳ್ಳುತ್ತಿದ್ದೀರಿ? ನನ್ನಿಂದ ನೀವು ಹಲವು ಪ್ರಯೋಜನ ಪಡೆದಿಲ್ಲವೆ?
+* Goddess of Water: Why? What have I done to you? Why do you feel such disgust? Have you not received many benefits from me?
 * ರೆಹಮಾನ್ : ಎಲ್ಲಾ ಸರಿ. ಆದರೆ ಈಗ ನೀನು ಕಲುಷಿತಗೊಂಡಿರುವೆ. ನಿನ್ನ ನೀರನ್ನು ಕುಡಿಯಬಾರದಂತೆ, ನಿನ್ನಲ್ಲಿ ಸ್ನಾನ ಮಾಡಬಾರದಂತೆ. ವೈದ್ಯರೇ ನಮಗೆ ಈ ವಿಚಾರ ತಿಳಿಸಿದ್ದಾರೆ. ಅಲ್ಲದೆ ನಮ್ಮ ಗೆಳೆಯ, ಗೆಳತಿಯರು ನಿನ್ನಲ್ಲಿ ಸ್ನಾನ ಮಾಡಿ ಅಸ್ವಸ್ಥರಾಗಿ ಆಸ್ಪತ್ರೆಗೆ ಸೇರಿದ್ದಾರೆ.
+* Rehman: That’s all well and good. But you are polluted now. We are told that one shouldn't drink your water or bathe in it. Doctors have informed us about this. Moreover, our friends fell ill and had to be hospitalized after bathing in your waters.
 * ಜಲದೇವತೆ : ಮಕ್ಕಳೇ, ಇದಕ್ಕೆಲ್ಲ ಕಾರಣ ನಾನಲ್ಲ ನೀವೆ!
+* Water Goddess: Children, I am not the cause of all this—you are!
 * ರಘು : ನಾವೆ?
+* Raghu: Us?
 * ಜಲದೇವತೆ : ನೀವು ಅಂದ್ರೆ-ನಿಮ್ಮವರು.
+* Water Goddess: By 'you,' I mean—your people.
 * ಮನೋಹರ : ನಮ್ಮವರೇನು ಶುದ್ಧಳಾಗಿ ಹರಿಯಬಾರದೆಂದು ತಾಕೀತು ಮಾಡಿದ್ದಾರೆಯೇ? ನಿನ್ನ ನೀರಿನಿಂದ ನಮಗೀಗ ಉಳಿಗಾಲವಿಲ್ಲ.
+* Manohara: Have our people issued a decree that you should not flow in a pure state? We can no longer survive with the water you provide.
 * ಜಲದೇವತೆ : ಇಲ್ಲ ಮಕ್ಕಳೇ, ನೀವು ನನ್ನ ಬಗ್ಗೆ ತಪ್ಪು ತಿಳಿದಿದ್ದೀರಿ. ನನ್ನ ಮಾತುಗಳನ್ನು ಕೇಳಿ. ಪರಿಶುದ್ಧಳಾಗಿ ಹರಿಯುವ ನನ್ನನ್ನು ಕಲುಷಿತಗೊಳಿಸಿದವರು ಮನುಷ್ಯರೇ. ಬಹಳ ಹಿಂದಿನಿAದ ಇತ್ತೀಚಿನವರೆಗೂ ಮಾಲಿನ್ಯರಹಿತಳಾಗಿ ಹರಿಯುತ್ತಿದ್ದೆ. ಆಗ ಈ ಮನುಷ್ಯರು ನನ್ನ ನೀರನ್ನು ಕುಡಿಯುತ್ತಿದ್ದರು. ಆಹಾರ ತಯಾರಿಕೆಗೆ ಬಳಸುತ್ತಿದ್ದರು, ಬೇಸಾಯಕ್ಕೆ ಉಪಯೋಗಿಸುತ್ತಿದ್ದರು. ನನ್ನಲ್ಲಿ ಲೆಕ್ಕವಿಲ್ಲದಷ್ಟು ಜಲಚರ ಜೀವಿಗಳಿದ್ದು ಎಲ್ಲವೂ ಸಂತೋಷದಿAದ ಇದ್ದವು. ಆದರೆ ಈಗ ನಾನು ಪರಿಶುದ್ಧಳಾಗಿಲ್ಲ. ನನ್ನನ್ನು ಮನುಷ್ಯರು ಮನಬಂದAತೆ ಬಳಸುತ್ತಿದ್ದಾರೆ. ಅನೇಕ ಕಾರ್ಖಾನೆಗಳನ್ನು ನನ್ನ ದಂಡೆಯಲ್ಲಿ ಸ್ಥಾಪಿಸಿ ಅದರಿಂದ ಹೊರಬರುವ ರಾಸಾಯನಿಕ ಪದಾರ್ಥಗಳನ್ನು ಮತ್ತು ಕಸದ ರಾಶಿಗಳನ್ನು ನನ್ನೊಳಕ್ಕೆ ಎಸೆಯುತ್ತಿದ್ದಾರೆ. ಊರಿನ ಸಮಗ್ರ ಕೊಳಚೆ ನೀರನ್ನು ನನ್ನೊಳಕ್ಕೆ ಹರಿಯಬಿಟ್ಟಿದ್ದಾರೆ. ಇಷ್ಟೆಲ್ಲಾ ಶೋಷಣೆಗೆ ಬಲಿಯಾದ ನಾನು ಹೇಗೆ ಪರಿಶುದ್ಧಳಾಗಿ ಹರಿಯಲು ಸಾಧ್ಯ? ನೀವೇ ಯೋಚಿಸಿ ಮಕ್ಕಳೇ.
+* Water Goddess: No, children. You have misunderstood me. Listen to what I have to say. It is humans who have polluted me, even though I flow pure and clean. From long ago until recently, I flowed without any pollution. In those days, people drank my water. They used it to prepare food and to irrigate their fields. I was home to countless aquatic creatures, and they all lived happily. But now I am no longer pure. People use me however they please. They have set up many factories on my banks and dump the chemicals produced by them, along with heaps of waste, into me. They also let the entire village's sewage flow into me. After becoming a victim of so much exploitation, how can I possibly remain pure and continue to flow clean? Think about it, children.
 * ಮಕ್ಕಳು : ನೀನು ಹೇಳುತ್ತಿರುವುದಾದರೂ ಏನು?
+* Children: What are you trying to say?
 * ಜಲದೇವತೆ : ನಾನು ಹೇಳುವುದಿಷ್ಟೇ: ಮನುಷ್ಯರು ಹೀಗೆಯೇ ಮಾಲಿನ್ಯ ಮಾಡುವುದನ್ನು ಮುಂದುವರಿಸಿದ್ದಾದರೆ ನಾನು ‘ವಿಷಕನ್ಯೆ’ ಎಂಬ ಪಟ್ಟ ಧರಿಸುವ ಕಾಲ ದೂರವಿಲ್ಲ. ನಾನು ಯಾರ ಬಳಿ ನನ್ನ ನೋವನ್ನು ಹೇಳಿಕೊಳ್ಳಲಿ?
+* Water Goddess: What I mean is this: If people continue polluting me like this, the day is not far when I will have to wear the title of "Poison Maiden." To whom can I express my pain?
 * ಮಕ್ಕಳು : (ಚಿಂತಾಕ್ರಾAತರಾಗಿ) ದೇವತೆಯೇ, ನೀನು ಮತ್ತೆ ಮೊದಲಿನಂತಾಗಲು ಸಾಧ್ಯವಿಲ್ಲವೇ?
+* Children: (Worried) O Goddess, is it not possible for you to become as you were before?
 * ಜಲದೇವತೆ : ಇದೆ ಮಕ್ಕಳೆ, ನನ್ನ ಮೇಲಾಗುತ್ತಿರುವ ದೌರ್ಜನ್ಯ ಸಂಪೂರ್ಣವಾಗಿ ನಿಲ್ಲಬೇಕು. ಎಲ್ಲರೂ ನನ್ನನ್ನು ಶುದ್ಧಗೊಳಿಸಲು ಶ್ರಮಿಸಬೇಕು. ನನ್ನಲ್ಲಿ ಯಾವುದೇ ಬಗೆಯ ಮಲಿನ ವಸ್ತು ಸೇರದಂತೆ ನೋಡಿಕೊಂಡರೆ ಮೊದಲಿನಂತೆಯೇ ಪರಿಶುದ್ಧಳಾಗಿ ಹರಿಯಬಲ್ಲೆ. ಹಾಗಾದರೆ ಈಗ ಹೇಳಿ ಮಕ್ಕಳೇ, ನನಗಾಗಿ ನೀವೇನು ಮಾಡಬಲ್ಲಿರಿ?
+* Water Goddess: Yes, children. The cruelty being done to me must stop completely. Everyone must work to clean me. If people ensure that no kind of waste or polluted material is dumped into me, I can flow as pure as I was before. Now tell me, children, what can you do for me?
 * ಮಕ್ಕಳೆಲ್ಲ : ತಾಯಿ ನಾವೆಲ್ಲರೂ ನಿನ್ನ ಮಾಲಿನ್ಯ ತಡೆಯಲು ಶ್ರಮಿಸುತ್ತೇವೆ. ಇಂದಿನಿAದಲೇ ಪಣತೊಟ್ಟು ನಿನ್ನನ್ನು ಪರಿಶುದ್ಧವಾಗಿಡಲು ಪ್ರಯತ್ನಿಸುತ್ತೇವೆ.
+* All the Children: Mother, we will all work to stop your pollution. From today onwards, we pledge to keep you clean and pure.
 * ಜಲದೇವತೆ : ಧನ್ಯ ಮಕ್ಕಳೆ, ಧನ್ಯ. (ಅಂತರ್ಧಾನಳಾಗುವಳು.)
+* Water Goddess: Thank you, children. Thank you. (She disappears.)
 * (ಮಕ್ಕಳು ತಮ್ಮ ಹೆತ್ತವರ ಹಾಗೂ ಊರವರ ಸಹಕಾರದೊಂದಿಗೆ ನದಿಯನ್ನು ಶುಚಿಯಾಗಿಡುವ ಜವಾಬ್ದಾರಿಯನ್ನು ವಹಿಸಿಕೊಂಡರು.)
+* Narrator: (With the cooperation of their parents and the villagers, the children took responsibility for keeping the river clean.)
 
 
 
